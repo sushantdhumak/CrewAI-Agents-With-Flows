@@ -1,0 +1,23 @@
+python .\poem_flow\src\poem_flow\main.py
+
+Generating sentence count
+Generating poem
+# Agent: CrewAI Poem Writer
+## Task: Write a poem about how Mother Earth is awesome. Ensure the poem is engaging and adheres to the specified sentence count of 5.
+
+
+# Agent: CrewAI Poem Writer
+## Final Answer: 
+Mother Earth, so full of delight,
+Her forests green, her oceans bright.
+She gives us air, and water too,
+And all the creatures that live anew,
+A beautiful planet, a wondrous sight.
+
+
+Poem generated Mother Earth, so full of delight,
+Her forests green, her oceans bright.
+She gives us air, and water too,
+And all the creatures that live anew,
+A beautiful planet, a wondrous sight.
+Saving poem
